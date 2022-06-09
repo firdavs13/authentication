@@ -1,0 +1,205 @@
+{
+    "data": [{
+            "name": "chexol",
+            "product": [{
+                    "id": 141,
+                    "paje": 1,
+                    "productTitle": "Stakan",
+                    "price": 45000,
+                    "lov": false,
+                    "lang": 0,
+                    "productImage": "https://cdn1.ozone.ru/s3/multimedia-5/6204771281.jpg",
+                    "image": [
+                        "https://cdn1.ozone.ru/s3/multimedia-5/6204771281.jpg",
+                        "https://cdn1.ozone.ru/s3/multimedia-j/c1200/6104005567.jpg",
+                        "https://items.s1.citilink.ru/1599106_v01_b.jpg",
+                        "https://cdn1.ozone.ru/s3/multimedia-i/c1200/6101730114.jpg",
+                        "https://object.pscloud.io/cms/cms/Photo/img_0_81_2912_0_1.jpg"
+                    ]
+                },
+                {
+                    "id": 131,
+                    "paje": 1,
+                    "productTitle": "Silikon",
+                    "price": 45000,
+                    "lov": false,
+                    "lang": 0,
+                    "productImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4xHz96xIJnK_lcde2oI6n1MhH8TyyVolxMITotXKizPcthxaWuV7skyu4BVoMNBNyu28&usqp=CAU",
+                    "image": [
+                        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4xHz96xIJnK_lcde2oI6n1MhH8TyyVolxMITotXKizPcthxaWuV7skyu4BVoMNBNyu28&usqp=CAU",
+                        "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/MM1R3?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1634345209000",
+                        "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MM1A3_AV1?wid=1144&hei=1144&fmt=jpeg&qlt=80&.v=1629962528000",
+                        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4xHz96xIJnK_lcde2oI6n1MhH8TyyVolxMITotXKizPcthxaWuV7skyu4BVoMNBNyu28&usqp=CAU",
+                        "https://www.phonelife.se/pub_images/original/101128245D-1_1000X1000.jpg"
+                    ]
+                },
+                {
+                    "id": 121,
+                    "paje": 1,
+                    "productTitle": "Charm",
+                    "price": 45000,
+                    "lov": false,
+                    "lang": 0,
+                    "productImage": "https://felix-ferro.com/uploads/images/collections/iphone-13/ff-1-1-1-1-1/small-cqohjle9w8-light.png",
+                    "image": [
+                        "https://felix-ferro.com/uploads/images/collections/iphone-13/ff-1-1-1-1-1/small-cqohjle9w8-light.png",
+                        "https://www.pielframa.com/8906-medium_default/model-luxinlay-i12pm.jpg",
+                        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfFmNvXfTadMvX51uRYfRhK3G07aZNXytfPiOiL9y8wfbbx_LfXrEwo4d9CH-w2rtJ6GM&usqp=CAU",
+                        "https://target.scene7.com/is/image/Target/GUEST_b0a9fba7-a284-41d6-b140-5ddea9442984?wid=488&hei=488&fmt=pjpeg",
+                        "https://target.scene7.com/is/image/Target/GUEST_48ce40b0-8dd7-45f9-abf6-65a4cbc98fb2?wid=488&hei=488&fmt=pjpeg"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "naushnik",
+            "product": [{
+                    "id": 151,
+                    "paje": 2,
+                    "productTitle": "Earphone",
+                    "price": 55000,
+                    "lov": false,
+                    "lang": 0,
+                    "productImage": "https://m.media-amazon.com/images/I/31VNX-NRkXS.jpg",
+                    "image": [
+                        "https://ph-test-11.slatic.net/p/685767ffecf156240722be4500514802.jpg",
+                        "https://wonderfulengineering.com/wp-content/uploads/2017/06/10-Best-Earphones-For-Apple-iPhone-7-Plus-3.jpg",
+                        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs7WuItEW-fx2QstyPkLAI7tuTpJjLH0nApSbEvenMrheMnR6j-tNU8a-8apR184L2708&usqp=CAU",
+                        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOKSCqml2WkbVimCrkgf_KxBPQY8Y5Dxdb-1hevvOwvd4_1WKVHSlbbN-HJqphs1K4-AE&usqp=CAU",
+                        "https://cdn.dsmcdn.com/ty213/product/media/images/20211029/10/159334575/279407837/2/2_org_zoom.jpg"
+                    ]
+                },
+                {
+                    "id": 173,
+                    "paje": 2,
+                    "productTitle": "Tore V60",
+                    "price": 45000,
+                    "lov": false,
+                    "lang": 0,
+                    "productImage": "https://m.media-amazon.com/images/I/614pmPbEpsL._AC_SL1500_.jpg",
+                    "image": [
+                        "https://i5.walmartimages.com/asr/c59fc09b-f790-4956-af05-fbf5fd5c0b36_1.83e2b7d5850d67ae884607c2c450d3bc.jpeg",
+                        "https://m.media-amazon.com/images/I/71f0t-4v72L._AC_SL1500_.jpg",
+                        "https://www.google.com/url?sa=i&url=https%3A%2F%2Fradiofamilycharity.org%2Fiphone-13-pro-max-kopfh%25C3%25B6rer-k.html&psig=AOvVaw0iE-ft5lq8-FfgMhd5Arvr&ust=1647483332747000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCMifv_THyfYCFQAAAAAdAAAAABAU"
+                    ]
+                },
+                {
+                    "id": 188,
+                    "paje": 2,
+                    "productTitle": "Apple BYZ S852I",
+                    "price": 62000,
+                    "lov": false,
+                    "lang": 0,
+                    "productImage": "https://raw.githubusercontent.com/Shamsiddinxon/qpick/613535ff584d40445f4113accde2d2c0a423f08c/src/Assests/img/Image%20(4).png",
+                    "image": [
+                        "https://raw.githubusercontent.com/Shamsiddinxon/qpick/613535ff584d40445f4113accde2d2c0a423f08c/src/Assests/img/Image%20(4).png",
+                        "https://p-my.ipricegroup.com/uploaded_d9d0eb01ae0b0c26d1b0a16590cda52a.jpg",
+                        "https://raw.githubusercontent.com/Shamsiddinxon/qpick/613535ff584d40445f4113accde2d2c0a423f08c/src/Assests/img/Image%20(4).png",
+                        "https://hiforit.com/wp-content/uploads/2020/02/14.png",
+                        "https://snapcraze.co.za/wp-content/uploads/2019/07/apple-earpods-lightning.jpg"
+                    ]
+                },
+                {
+                    "id": 189,
+                    "paje": 2,
+                    "productTitle": "Apple EarPods",
+                    "price": 52000,
+                    "lov": false,
+                    "lang": 0,
+                    "productImage": "https://raw.githubusercontent.com/Shamsiddinxon/qpick/613535ff584d40445f4113accde2d2c0a423f08c/src/Assests/img/Image%20(3).png",
+                    "image": [
+                        "https://raw.githubusercontent.com/Shamsiddinxon/qpick/613535ff584d40445f4113accde2d2c0a423f08c/src/Assests/img/Image%20(3).png",
+                        "https://p-my.ipricegroup.com/uploaded_d9d0eb01ae0b0c26d1b0a16590cda52a.jpg",
+                        "https://raw.githubusercontent.com/Shamsiddinxon/qpick/613535ff584d40445f4113accde2d2c0a423f08c/src/Assests/img/Image%20(3).png",
+                        "https://hiforit.com/wp-content/uploads/2020/02/14.png",
+                        "https://snapcraze.co.za/wp-content/uploads/2019/07/apple-earpods-lightning.jpg"
+                    ]
+                },
+                {
+                    "id": 190,
+                    "paje": 2,
+                    "productTitle": "Apple EarPods",
+                    "price": 65000,
+                    "lov": false,
+                    "lang": 0,
+                    "productImage": "https://raw.githubusercontent.com/Shamsiddinxon/qpick/613535ff584d40445f4113accde2d2c0a423f08c/src/Assests/img/Image%20(2).png",
+                    "image": [
+                        "https://raw.githubusercontent.com/Shamsiddinxon/qpick/613535ff584d40445f4113accde2d2c0a423f08c/src/Assests/img/Image%20(2).png",
+                        "https://p-my.ipricegroup.com/uploaded_d9d0eb01ae0b0c26d1b0a16590cda52a.jpg",
+                        "https://raw.githubusercontent.com/Shamsiddinxon/qpick/613535ff584d40445f4113accde2d2c0a423f08c/src/Assests/img/Image%20(2).png",
+                        "https://hiforit.com/wp-content/uploads/2020/02/14.png",
+                        "https://snapcraze.co.za/wp-content/uploads/2019/07/apple-earpods-lightning.jpg"
+                    ]
+                },
+                {
+                    "id": 187,
+                    "paje": 2,
+                    "productTitle": "BOROFONE BH32",
+                    "price": 105000,
+                    "lov": false,
+                    "lang": 0,
+                    "productImage": "https://raw.githubusercontent.com/Shamsiddinxon/qpick/613535ff584d40445f4113accde2d2c0a423f08c/src/Assests/img/image%209.png",
+                    "image": [
+                        "https://raw.githubusercontent.com/Shamsiddinxon/qpick/613535ff584d40445f4113accde2d2c0a423f08c/src/Assests/img/image%208.png",
+                        "https://raw.githubusercontent.com/Shamsiddinxon/qpick/613535ff584d40445f4113accde2d2c0a423f08c/src/Assests/img/image%209.png",
+                        "https://raw.githubusercontent.com/Shamsiddinxon/qpick/613535ff584d40445f4113accde2d2c0a423f08c/src/Assests/img/image%2012.png",
+                        "https://raw.githubusercontent.com/Shamsiddinxon/qpick/613535ff584d40445f4113accde2d2c0a423f08c/src/Assests/img/image%2013.png",
+                        "https://raw.githubusercontent.com/Shamsiddinxon/qpick/613535ff584d40445f4113accde2d2c0a423f08c/src/Assests/img/image%2010.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "kabelsiz",
+            "product": [{
+                    "id": 512,
+                    "paje": 3,
+                    "productTitle": "AirPods (2019)",
+                    "price": 545000,
+                    "lov": false,
+                    "lang": 0,
+                    "productImage": "https://www.mytrendyphone.eu/images/Apple-Airpods-2-with-Charging-Case-MV7N2ZM-A-0190199098572-05012022-p.jpg",
+                    "image": [
+                        "https://i.ebayimg.com/images/g/ynAAAOSw931hxdpJ/s-l400.jpg",
+                        "https://helios-i.mashable.com/imagery/articles/041HyHHpbueIv56Ir8G90sZ/hero-image.fill.size_1200x1200.v1632248412.jpg",
+                        "https://i.guim.co.uk/img/media/fa36d7a2b93ef5ba25931bbfbe3e6780695ffb41/583_494_4667_2802/master/4667.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=e2d5d444a5311d08e3436af90cc6c2dc",
+                        "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MME73?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1632861342000",
+                        "https://helios-i.mashable.com/imagery/articles/041HyHHpbueIv56Ir8G90sZ/hero-image.fill.size_1200x1200.v1632248412.jpg"
+                    ]
+                },
+                {
+                    "id": 514,
+                    "paje": 3,
+                    "productTitle": "AirPods 3",
+                    "price": 925000,
+                    "lov": false,
+                    "lang": 0,
+                    "productImage": "https://raw.githubusercontent.com/Shamsiddinxon/qpick/613535ff584d40445f4113accde2d2c0a423f08c/src/Assests/img/Image.png",
+                    "image": [
+                        "https://raw.githubusercontent.com/Shamsiddinxon/qpick/613535ff584d40445f4113accde2d2c0a423f08c/src/Assests/img/Image.png",
+                        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9yYk_PwG8cpeqoBjGI23P5bHSLwvr5lIEqWTPgw2KcwxsgISltIO6WEYNI2fymqxZpds&usqp=CAU",
+                        "https://i.guim.co.uk/img/media/fa36d7a2b93ef5ba25931bbfbe3e6780695ffb41/583_494_4667_2802/master/4667.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=e2d5d444a5311d08e3436af90cc6c2dc",
+                        "https://www.apple.com/my/v/airpods/q/images/overview/airpods_pro_right__fm0wwisa76em_large.png",
+                        "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/MWP22?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1591634795000"
+                    ]
+                },
+                {
+                    "id": 518,
+                    "paje": 3,
+                    "productTitle": "AirPods",
+                    "price": 65500,
+                    "lov": false,
+                    "lang": 0,
+                    "productImage": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/MWP22?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1591634795000",
+                    "image": [
+                        "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/MWP22?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1591634795000",
+                        "https://p-my.ipricegroup.com/uploaded_d9d0eb01ae0b0c26d1b0a16590cda52a.jpg",
+                        "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/MWP22?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1591634795000",
+                        "https://onshope.com/wp-content/uploads/2021/11/New-Original-Apple-EarPods-3-5mm-Plug-Lightning-Connector-In-ear-Earbuds-Wired-Earphones-Microphone-For.jpg",
+                        "https://snapcraze.co.za/wp-content/uploads/2019/07/apple-earpods-lightning.jpg"
+                    ]
+                }
+            ]
+        }
+    ]
+}
